@@ -1,0 +1,6 @@
+dummy
+*.out
+.DS*
+*out*
+*.out*
+rush-02

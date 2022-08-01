@@ -1,0 +1,8 @@
+*.out
+.DS*
+*.gch
+*.o
+a.out.dSYM/
+.vscode
+.vscode/
+bsq

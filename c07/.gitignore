@@ -1,0 +1,4 @@
+main.c
+*.out
+ft_print_memory.c
+*.dSYM

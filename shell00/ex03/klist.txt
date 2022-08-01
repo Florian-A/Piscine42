@@ -1,0 +1,5 @@
+Credentials cache: API:566F941C-1B65-4FDF-871D-5D9DF01642CC
+        Principal: f██████@42LYON.FR
+
+  Issued                Expires               Principal
+Aug  3 13:22:15 2021  Aug  4 13:22:15 2021  krbtgt/42LYON.FR@42LYON.FR

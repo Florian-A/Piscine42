@@ -1,0 +1,5 @@
+*.out
+ft_print_memory.c
+*.out
+.DS*
+*.dSYM
